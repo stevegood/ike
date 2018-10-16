@@ -1,4 +1,4 @@
-module gitlab.com/stevegood/ike
+module github.com/stevegood/ike
 
 require (
 	github.com/labstack/echo v3.2.1+incompatible
