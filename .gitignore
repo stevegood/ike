@@ -1,0 +1,7 @@
+ike
+main
+*.log
+.env
+debug
+gin-bin
+*.db
