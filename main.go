@@ -5,7 +5,7 @@ import (
 
 	"github.com/labstack/echo"
 	_ "github.com/mattn/go-sqlite3"
-	"gitlab.com/stevegood/ike/handlers"
+	"github.com/stevegood/ike/handlers"
 )
 
 func initDB(filepath string) *sql.DB {

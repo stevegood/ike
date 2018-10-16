@@ -6,7 +6,7 @@ import (
 	"strconv"
 
 	"github.com/labstack/echo"
-	"gitlab.com/stevegood/ike/models"
+	"github.com/stevegood/ike/models"
 )
 
 type H map[string]interface{}
